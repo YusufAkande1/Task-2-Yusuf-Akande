@@ -67,6 +67,7 @@ df = pd.read_excel(
     "Cleaned_Dataset.xlsx",
     engine="openpyxl"
 )
+```
 ### 2. Understanding the Dataset
 
 Basic dataset exploration was performed to understand:
