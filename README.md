@@ -117,8 +117,7 @@ Revenue-related analysis was performed to understand:
 - Average revenue
 - Highest sales value
 
-####
-Example:
+#### Example:
 ```
 print(df["TotalPrice"].sum())
 ```
