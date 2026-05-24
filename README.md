@@ -79,7 +79,7 @@ Basic dataset exploration was performed to understand:
 #### Example:
 ```
 print(df.info())
-```
+
 #Dataset dimensions:
 
 print(df.shape)
